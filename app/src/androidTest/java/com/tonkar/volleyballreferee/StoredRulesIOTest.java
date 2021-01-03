@@ -7,7 +7,7 @@ import com.tonkar.volleyballreferee.engine.game.GameType;
 import com.tonkar.volleyballreferee.engine.rules.Rules;
 import com.tonkar.volleyballreferee.engine.stored.StoredRulesManager;
 import com.tonkar.volleyballreferee.engine.stored.StoredRulesService;
-import com.tonkar.volleyballreferee.engine.stored.api.ApiRules;
+import com.tonkar.volleyballreferee.engine.stored.dto.ApiRules;
 import com.tonkar.volleyballreferee.ui.MainActivity;
 
 import org.junit.FixMethodOrder;

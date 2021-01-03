@@ -26,7 +26,7 @@ import com.tonkar.volleyballreferee.engine.game.IGame;
 import com.tonkar.volleyballreferee.engine.game.ITimeBasedGame;
 import com.tonkar.volleyballreferee.engine.stored.StoredTeamsManager;
 import com.tonkar.volleyballreferee.engine.stored.StoredTeamsService;
-import com.tonkar.volleyballreferee.engine.stored.api.ApiTeamSummary;
+import com.tonkar.volleyballreferee.engine.stored.dto.ApiTeamSummary;
 import com.tonkar.volleyballreferee.engine.team.GenderType;
 import com.tonkar.volleyballreferee.engine.team.TeamType;
 import com.tonkar.volleyballreferee.engine.team.definition.TeamDefinition;

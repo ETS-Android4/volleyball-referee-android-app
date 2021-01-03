@@ -22,7 +22,7 @@ import com.tonkar.volleyballreferee.engine.game.UsageType;
 import com.tonkar.volleyballreferee.engine.stored.DataSynchronizationListener;
 import com.tonkar.volleyballreferee.engine.stored.StoredGamesManager;
 import com.tonkar.volleyballreferee.engine.stored.StoredGamesService;
-import com.tonkar.volleyballreferee.engine.stored.api.ApiGameSummary;
+import com.tonkar.volleyballreferee.engine.stored.dto.ApiGameSummary;
 import com.tonkar.volleyballreferee.ui.NavigationActivity;
 import com.tonkar.volleyballreferee.ui.util.UiUtils;
 

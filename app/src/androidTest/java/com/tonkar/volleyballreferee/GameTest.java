@@ -6,7 +6,7 @@ import com.tonkar.volleyballreferee.engine.game.GameEvent;
 import com.tonkar.volleyballreferee.engine.game.GameFactory;
 import com.tonkar.volleyballreferee.engine.game.IGame;
 import com.tonkar.volleyballreferee.engine.rules.Rules;
-import com.tonkar.volleyballreferee.engine.stored.api.ApiUserSummary;
+import com.tonkar.volleyballreferee.engine.stored.dto.ApiUserSummary;
 import com.tonkar.volleyballreferee.engine.team.TeamType;
 
 import org.junit.Test;

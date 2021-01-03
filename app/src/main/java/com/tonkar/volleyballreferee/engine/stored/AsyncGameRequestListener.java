@@ -1,6 +1,6 @@
 package com.tonkar.volleyballreferee.engine.stored;
 
-import com.tonkar.volleyballreferee.engine.stored.api.ApiGameSummary;
+import com.tonkar.volleyballreferee.engine.stored.dto.ApiGameSummary;
 
 import java.util.List;
 

@@ -25,9 +25,9 @@ import com.tonkar.volleyballreferee.engine.stored.StoredLeaguesManager;
 import com.tonkar.volleyballreferee.engine.stored.StoredLeaguesService;
 import com.tonkar.volleyballreferee.engine.stored.StoredUserManager;
 import com.tonkar.volleyballreferee.engine.stored.StoredUserService;
-import com.tonkar.volleyballreferee.engine.stored.api.ApiFriend;
-import com.tonkar.volleyballreferee.engine.stored.api.ApiLeagueSummary;
-import com.tonkar.volleyballreferee.engine.stored.api.ApiUserSummary;
+import com.tonkar.volleyballreferee.engine.stored.dto.ApiFriend;
+import com.tonkar.volleyballreferee.engine.stored.dto.ApiLeagueSummary;
+import com.tonkar.volleyballreferee.engine.stored.dto.ApiUserSummary;
 import com.tonkar.volleyballreferee.ui.interfaces.GameServiceHandler;
 
 import java.util.ArrayList;

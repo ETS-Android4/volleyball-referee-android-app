@@ -1,7 +1,7 @@
 package com.tonkar.volleyballreferee.engine.team.substitution;
 
 import com.google.gson.annotations.SerializedName;
-import com.tonkar.volleyballreferee.engine.stored.api.ApiSubstitution;
+import com.tonkar.volleyballreferee.engine.stored.dto.ApiSubstitution;
 
 import java.util.List;
 import java.util.Set;

@@ -5,8 +5,8 @@ import android.util.Log;
 import com.google.gson.annotations.SerializedName;
 import com.tonkar.volleyballreferee.engine.Tags;
 import com.tonkar.volleyballreferee.engine.game.GameType;
-import com.tonkar.volleyballreferee.engine.stored.api.ApiPlayer;
-import com.tonkar.volleyballreferee.engine.stored.api.ApiTeam;
+import com.tonkar.volleyballreferee.engine.stored.dto.ApiPlayer;
+import com.tonkar.volleyballreferee.engine.stored.dto.ApiTeam;
 import com.tonkar.volleyballreferee.engine.team.TeamType;
 
 import java.util.Calendar;

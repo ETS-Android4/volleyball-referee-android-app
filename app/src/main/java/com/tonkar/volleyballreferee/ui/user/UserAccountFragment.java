@@ -19,9 +19,9 @@ import com.tonkar.volleyballreferee.engine.Tags;
 import com.tonkar.volleyballreferee.engine.stored.AsyncUserRequestListener;
 import com.tonkar.volleyballreferee.engine.stored.StoredUserManager;
 import com.tonkar.volleyballreferee.engine.stored.StoredUserService;
-import com.tonkar.volleyballreferee.engine.stored.api.ApiUserPasswordUpdate;
-import com.tonkar.volleyballreferee.engine.stored.api.ApiUserSummary;
-import com.tonkar.volleyballreferee.engine.stored.api.ApiUserToken;
+import com.tonkar.volleyballreferee.engine.stored.dto.ApiUserPasswordUpdate;
+import com.tonkar.volleyballreferee.engine.stored.dto.ApiUserSummary;
+import com.tonkar.volleyballreferee.engine.stored.dto.ApiUserToken;
 import com.tonkar.volleyballreferee.ui.util.UiUtils;
 
 import java.net.HttpURLConnection;

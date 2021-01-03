@@ -4,9 +4,9 @@ import android.util.Log;
 
 import com.tonkar.volleyballreferee.engine.Tags;
 import com.tonkar.volleyballreferee.engine.game.GameType;
-import com.tonkar.volleyballreferee.engine.stored.api.ApiRules;
-import com.tonkar.volleyballreferee.engine.stored.api.ApiRulesSummary;
-import com.tonkar.volleyballreferee.engine.stored.api.ApiUserSummary;
+import com.tonkar.volleyballreferee.engine.stored.dto.ApiRules;
+import com.tonkar.volleyballreferee.engine.stored.dto.ApiRulesSummary;
+import com.tonkar.volleyballreferee.engine.stored.dto.ApiUserSummary;
 
 import lombok.ToString;
 

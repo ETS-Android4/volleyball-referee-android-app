@@ -20,9 +20,9 @@ import com.tonkar.volleyballreferee.engine.Tags;
 import com.tonkar.volleyballreferee.engine.stored.AsyncFriendRequestListener;
 import com.tonkar.volleyballreferee.engine.stored.StoredUserManager;
 import com.tonkar.volleyballreferee.engine.stored.StoredUserService;
-import com.tonkar.volleyballreferee.engine.stored.api.ApiFriend;
-import com.tonkar.volleyballreferee.engine.stored.api.ApiFriendRequest;
-import com.tonkar.volleyballreferee.engine.stored.api.ApiFriendsAndRequests;
+import com.tonkar.volleyballreferee.engine.stored.dto.ApiFriend;
+import com.tonkar.volleyballreferee.engine.stored.dto.ApiFriendRequest;
+import com.tonkar.volleyballreferee.engine.stored.dto.ApiFriendsAndRequests;
 import com.tonkar.volleyballreferee.ui.NavigationActivity;
 import com.tonkar.volleyballreferee.ui.util.UiUtils;
 

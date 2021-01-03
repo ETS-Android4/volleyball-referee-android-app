@@ -1,8 +1,8 @@
 package com.tonkar.volleyballreferee.engine.stored;
 
 import com.tonkar.volleyballreferee.engine.game.GameType;
-import com.tonkar.volleyballreferee.engine.stored.api.ApiTeam;
-import com.tonkar.volleyballreferee.engine.stored.api.ApiTeamSummary;
+import com.tonkar.volleyballreferee.engine.stored.dto.ApiTeam;
+import com.tonkar.volleyballreferee.engine.stored.dto.ApiTeamSummary;
 import com.tonkar.volleyballreferee.engine.team.GenderType;
 import com.tonkar.volleyballreferee.engine.team.IBaseTeam;
 import com.tonkar.volleyballreferee.engine.team.TeamType;

@@ -6,9 +6,9 @@ import androidx.test.rule.ActivityTestRule;
 import com.tonkar.volleyballreferee.engine.game.GameType;
 import com.tonkar.volleyballreferee.engine.stored.StoredLeaguesManager;
 import com.tonkar.volleyballreferee.engine.stored.StoredLeaguesService;
-import com.tonkar.volleyballreferee.engine.stored.api.ApiLeague;
-import com.tonkar.volleyballreferee.engine.stored.api.ApiSelectedLeague;
-import com.tonkar.volleyballreferee.engine.stored.api.ApiUserSummary;
+import com.tonkar.volleyballreferee.engine.stored.dto.ApiLeague;
+import com.tonkar.volleyballreferee.engine.stored.dto.ApiSelectedLeague;
+import com.tonkar.volleyballreferee.engine.stored.dto.ApiUserSummary;
 import com.tonkar.volleyballreferee.ui.MainActivity;
 
 import org.junit.FixMethodOrder;

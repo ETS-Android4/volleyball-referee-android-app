@@ -1,7 +1,7 @@
 package com.tonkar.volleyballreferee.engine.game;
 
 import com.tonkar.volleyballreferee.engine.rules.Rules;
-import com.tonkar.volleyballreferee.engine.stored.api.ApiSelectedLeague;
+import com.tonkar.volleyballreferee.engine.stored.dto.ApiSelectedLeague;
 
 public interface IBaseGeneral {
 

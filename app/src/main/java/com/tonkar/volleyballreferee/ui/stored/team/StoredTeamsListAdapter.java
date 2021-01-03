@@ -13,7 +13,7 @@ import androidx.core.content.ContextCompat;
 import com.google.android.material.card.MaterialCardView;
 import com.google.android.material.chip.Chip;
 import com.tonkar.volleyballreferee.R;
-import com.tonkar.volleyballreferee.engine.stored.api.ApiTeamSummary;
+import com.tonkar.volleyballreferee.engine.stored.dto.ApiTeamSummary;
 import com.tonkar.volleyballreferee.ui.stored.SelectableArrayAdapter;
 import com.tonkar.volleyballreferee.ui.util.UiUtils;
 

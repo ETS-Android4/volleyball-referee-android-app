@@ -1,9 +1,9 @@
 package com.tonkar.volleyballreferee.engine.stored;
 
 import com.tonkar.volleyballreferee.engine.game.GameType;
-import com.tonkar.volleyballreferee.engine.stored.api.ApiLeague;
-import com.tonkar.volleyballreferee.engine.stored.api.ApiLeagueSummary;
-import com.tonkar.volleyballreferee.engine.stored.api.ApiSelectedLeague;
+import com.tonkar.volleyballreferee.engine.stored.dto.ApiLeague;
+import com.tonkar.volleyballreferee.engine.stored.dto.ApiLeagueSummary;
+import com.tonkar.volleyballreferee.engine.stored.dto.ApiSelectedLeague;
 
 import java.util.List;
 

@@ -1,6 +1,6 @@
 package com.tonkar.volleyballreferee.engine.team.substitution;
 
-import com.tonkar.volleyballreferee.engine.stored.api.ApiSubstitution;
+import com.tonkar.volleyballreferee.engine.stored.dto.ApiSubstitution;
 
 import java.util.HashSet;
 import java.util.List;

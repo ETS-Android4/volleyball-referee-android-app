@@ -7,9 +7,9 @@ import androidx.appcompat.app.AppCompatDelegate;
 import androidx.preference.PreferenceManager;
 
 import com.tonkar.volleyballreferee.engine.stored.JsonIOUtils;
-import com.tonkar.volleyballreferee.engine.stored.api.ApiUserSummary;
-import com.tonkar.volleyballreferee.engine.stored.api.ApiUserToken;
-import com.tonkar.volleyballreferee.engine.stored.api.ApiUtils;
+import com.tonkar.volleyballreferee.engine.stored.dto.ApiUserSummary;
+import com.tonkar.volleyballreferee.engine.stored.dto.ApiUserToken;
+import com.tonkar.volleyballreferee.engine.stored.dto.ApiUtils;
 
 import java.util.Calendar;
 import java.util.TimeZone;

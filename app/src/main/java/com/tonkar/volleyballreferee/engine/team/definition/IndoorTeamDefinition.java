@@ -4,7 +4,7 @@ import android.util.Log;
 
 import com.tonkar.volleyballreferee.engine.Tags;
 import com.tonkar.volleyballreferee.engine.game.GameType;
-import com.tonkar.volleyballreferee.engine.stored.api.ApiPlayer;
+import com.tonkar.volleyballreferee.engine.stored.dto.ApiPlayer;
 import com.tonkar.volleyballreferee.engine.team.TeamType;
 
 import java.util.Set;

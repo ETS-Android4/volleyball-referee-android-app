@@ -5,7 +5,7 @@ import androidx.test.ext.junit.runners.AndroidJUnit4;
 import com.tonkar.volleyballreferee.engine.game.GameType;
 import com.tonkar.volleyballreferee.engine.game.set.BeachSet;
 import com.tonkar.volleyballreferee.engine.rules.Rules;
-import com.tonkar.volleyballreferee.engine.stored.api.ApiUserSummary;
+import com.tonkar.volleyballreferee.engine.stored.dto.ApiUserSummary;
 import com.tonkar.volleyballreferee.engine.team.TeamType;
 
 import org.junit.Test;
